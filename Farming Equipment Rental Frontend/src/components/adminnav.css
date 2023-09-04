@@ -1,0 +1,8 @@
+/* .main-header:hover{
+    background-color: green;
+} */
+.main-sidebar:hover{
+    background-color: darkolivegreen;
+}
+
+.main-sidebar:hover .nav-link.color{color:bnav-linklack}

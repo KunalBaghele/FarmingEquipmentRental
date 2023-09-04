@@ -1,0 +1,21 @@
+.col-sm-3:hover{
+    background-color: green;
+}
+
+.card-footer:hover{
+    background-color:black;
+   
+}
+
+.card-footer:hover .link{
+    color: white;
+}
+.img-fluid{
+    height: 200px;
+    /* border: 0px none; */
+    /* border-radius: 100%; */
+}
+
+/* .link:hover{
+    color: white;
+} */
